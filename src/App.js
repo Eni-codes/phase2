@@ -10,8 +10,8 @@ import ReviewsContainer from './components/RestaurantForm'
 
 // import {Cards} from './components/Cards'
 
-const BASE_URL = "http://localhost:3000/restaurants"
-const REVIEW_URL = "http://localhost:3000/feedback"
+const BASE_URL = "localhost:3000/restaurants"
+const REVIEW_URL = "/feedback"
 
 
 export default class App extends Component {
